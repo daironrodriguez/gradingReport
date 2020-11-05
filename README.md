@@ -8,7 +8,6 @@ Daniel 54
 Carlos 67
 Lisbet 73
 Yanet 26
-Roxana 57.54
 Liz 78.21
 Laura 81.87
 Ana 12
